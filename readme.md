@@ -7,3 +7,7 @@ ERICK BERMEO, DANIEL UYAGUARI
 ### MATERIA
 
 Estructura de Datos
+
+### ACTIVIDAD
+
+SACAR 10 en la practica
